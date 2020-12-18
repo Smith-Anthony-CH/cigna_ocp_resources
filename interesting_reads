@@ -188,6 +188,9 @@ https://www.elastic.co/guide/en/kibana/6.8/tutorial-visualizing.html
 #Taints and tolerances:
 https://www.openshift.com/blog/taints-expectations-vs.-reality
 
-#Derek the DevOps Dinosaur
+#Derek the DevOps Dinosaur:
 https://medium.com/@springdo/derek-the-devops-dinosaur-f9ece02030ad
+
+#Verifying Cluster Logging:
+https://docs.openshift.com/container-platform/4.5/logging/troubleshooting/cluster-logging-cluster-status.html
 
